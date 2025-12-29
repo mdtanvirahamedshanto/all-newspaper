@@ -1,5 +1,5 @@
 {
-  "name": "expo-tailwindcss-stater",
+  "name": "all-newspaper",
   "version": "1.0.0",
   "scripts": {
     "android": "expo start --android",

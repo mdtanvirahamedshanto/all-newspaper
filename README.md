@@ -5,6 +5,7 @@ Bangladesh newspaper reader built with **Expo + React Native**.
 - **Browse** newspapers by category
 - **Search** and open sites inside the app (WebView)
 - **Bookmark** newspapers (persistent)
+- **Download Apk** [Download Link](https://expo.dev/artifacts/eas/n889eqvXZ4SwW7NjqvoKcM.apk)
 
 ## Tech stack
 

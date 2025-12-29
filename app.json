@@ -3,29 +3,25 @@
     "name": "All Newspaper",
     "slug": "all-newspaper",
     "version": "1.0.0",
-
     "web": {
       "favicon": "./assets/favicon.png",
       "bundler": "metro"
     },
-
     "experiments": {
       "tsconfigPaths": true
     },
-
     "plugins": [],
-
     "orientation": "portrait",
     "icon": "./assets/logo.png",
-
     "userInterfaceStyle": "light",
-
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
@@ -33,6 +29,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/logo.png",
         "backgroundColor": "#ffffff"
+      },
+      "package": "com.mdtanvirahamedshanto.allnewspaper"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d118fd51-1aeb-423d-bdda-95845866de8b"
       }
     }
   }

@@ -24,7 +24,10 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.mdtanvirahamedshanto.allnewspaper"
+      "bundleIdentifier": "com.mdtanvirahamedshanto.allnewspaper",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {

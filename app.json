@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-tailwindcss-stater",
-    "slug": "expo-tailwindcss-stater",
+    "name": "All Newspaper",
+    "slug": "all-newspaper",
     "version": "1.0.0",
 
     "web": {
@@ -16,7 +16,7 @@
     "plugins": [],
 
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo.png",
 
     "userInterfaceStyle": "light",
 
@@ -31,7 +31,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/logo.png",
         "backgroundColor": "#ffffff"
       }
     }
